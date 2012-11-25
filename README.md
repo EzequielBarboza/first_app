@@ -1,2 +1,2 @@
-# Ruby on RAis Tutorial: first application
+# Ruby on Rails Tutorial: first application
 
